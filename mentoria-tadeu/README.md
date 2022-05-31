@@ -1,6 +1,7 @@
 # Mentoria Tadeu Jacomini
 
 ### Playlist para estudos: (https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV)
+
 1. Lógica de programação (Prazo: 07/06)
     
     - Algoritmo:
