@@ -1,17 +1,16 @@
 var lista = [];
 
 function addlistaSuper(item) {
-    
+
     // Verificar se a lista está cheia
+    if (lista.length >= 5) return;
 
     // Adicionar o item a lista
+    lista.push(item);
 
-    // Retornar a lista
-    return lista;
 }
 
 // Casos de teste
-
 addlistaSuper("Chocolate em barra");
 addlistaSuper("Café");
 addlistaSuper("Sorvete");
